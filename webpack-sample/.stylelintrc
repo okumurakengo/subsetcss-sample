@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "subsetcss"
+  ],
+  "rules": {
+    "subsetcss/config": "./.subsetcss.js"
+  }
+}
